@@ -28,13 +28,16 @@ Here is the step-by-step breakdown of the process:
 <img width="584" alt="image" src="https://github.com/moezdurrani/TrendTeller/assets/103555283/dc117765-8a85-4088-a75c-d68e384f3c3f">
 
 - Plotting the historical stock data (open and close prices) using Plotly. A slider was added to change the range of years for which the data is displayed
-<img width="764" alt="image" src="https://github.com/moezdurrani/TrendTeller/assets/103555283/c97a6685-8a32-4407-8f68-b514cac5bda2">
+<img width="729" alt="image" src="https://github.com/moezdurrani/TrendTeller/assets/103555283/625e8126-4b70-4aa2-aa12-266df97283c1">
+
 
 - Predicting the future data for the specified number of years using the Prophet model developed by Facebook
-<img width="952" alt="image" src="https://github.com/moezdurrani/TrendTeller/assets/103555283/a98bf323-cc13-4155-8f62-dc2cc493f286">
+<img width="741" alt="image" src="https://github.com/moezdurrani/TrendTeller/assets/103555283/ec2d3bc0-4152-4fbf-abdc-ab14737b36ae">
+
 
 - Plotting the predicted stock data using Plotly. A slider was added to change the range of years for which the data is displayed
-<img width="780" alt="image" src="https://github.com/moezdurrani/TrendTeller/assets/103555283/0c288336-ad11-4591-bae0-a11c7d54f727">
+<img width="932" alt="image" src="https://github.com/moezdurrani/TrendTeller/assets/103555283/e0491540-daae-46f3-b41f-d15c8330a22c">
+
 
 - Plotting the components of the predicted data
 <img width="741" alt="image" src="https://github.com/moezdurrani/TrendTeller/assets/103555283/ffe0b110-0990-4969-8867-a5c6d86040c7">
