@@ -19,6 +19,9 @@ Trend Teller is a user-friendly web application built with Streamlit that allows
 git clone https://github.com/moezdurrani/TrendTeller
 ```
 
+![Recording-ezgif com-video-to-gif-converter](https://github.com/moezdurrani/TrendTeller/assets/103555283/c92f671c-9907-4b50-a3cb-0a02e18d2d1a)
+
+
 ### Install Dependencies:
 ```bash
 pip install streamlit prophet yfinance plotly
