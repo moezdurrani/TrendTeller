@@ -11,7 +11,9 @@ Trend Teller is a user-friendly web application built with Streamlit that allows
 - View forecast data and plot
 - Analyze forecast components plot for a deeper understanding of the trend
 
-Here is an animation of the app working
+Here is an animation of the app working:
+
+
 ![Recording-ezgif com-video-to-gif-converter](https://github.com/moezdurrani/TrendTeller/assets/103555283/c92f671c-9907-4b50-a3cb-0a02e18d2d1a)
 
 Here is the step-by-step breakdown of the process:
@@ -23,7 +25,7 @@ Here is the step-by-step breakdown of the process:
 <img width="756" alt="image" src="https://github.com/moezdurrani/TrendTeller/assets/103555283/40fc5876-131c-40b9-a9e1-0789ccde0482">
 
 - Fetching historical stock data using the Yahoo Finance API. Added a function that caches the data to improve performance by avoiding redundant data fetching
-<img width="773" alt="image" src="https://github.com/moezdurrani/TrendTeller/assets/103555283/a843756e-0e51-43dc-8d18-9362d516c729">
+<img width="584" alt="image" src="https://github.com/moezdurrani/TrendTeller/assets/103555283/dc117765-8a85-4088-a75c-d68e384f3c3f">
 
 - Plotting the historical stock data (open and close prices) using Plotly. A slider was added to change the range of years for which the data is displayed
 <img width="764" alt="image" src="https://github.com/moezdurrani/TrendTeller/assets/103555283/c97a6685-8a32-4407-8f68-b514cac5bda2">
